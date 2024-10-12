@@ -20,6 +20,7 @@
 		10589BF52CB99826007B11FF /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10589BF42CB99826007B11FF /* TrailingIconLabelStyle.swift */; };
 		10589BF82CB99A55007B11FF /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10589BF72CB99A55007B11FF /* ScrumsView.swift */; };
 		10589BFA2CBB015A007B11FF /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10589BF92CBB015A007B11FF /* DetailView.swift */; };
+		10589BFC2CBB047D007B11FF /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10589BFB2CBB047D007B11FF /* DetailEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		10589BF42CB99826007B11FF /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		10589BF72CB99A55007B11FF /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		10589BF92CBB015A007B11FF /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		10589BFB2CBB047D007B11FF /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +159,7 @@
 				10589BF22CB99325007B11FF /* CardView.swift */,
 				10589BF72CB99A55007B11FF /* ScrumsView.swift */,
 				10589BF92CBB015A007B11FF /* DetailView.swift */,
+				10589BFB2CBB047D007B11FF /* DetailEditView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -293,6 +296,7 @@
 			files = (
 				10589BF12CB992E6007B11FF /* DailyScrum.swift in Sources */,
 				10589BFA2CBB015A007B11FF /* DetailView.swift in Sources */,
+				10589BFC2CBB047D007B11FF /* DetailEditView.swift in Sources */,
 				10589BF52CB99826007B11FF /* TrailingIconLabelStyle.swift in Sources */,
 				10589BEF2CB9927D007B11FF /* Theme.swift in Sources */,
 				10589BF82CB99A55007B11FF /* ScrumsView.swift in Sources */,
