@@ -19,6 +19,7 @@
 		10589BF32CB99325007B11FF /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10589BF22CB99325007B11FF /* CardView.swift */; };
 		10589BF52CB99826007B11FF /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10589BF42CB99826007B11FF /* TrailingIconLabelStyle.swift */; };
 		10589BF82CB99A55007B11FF /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10589BF72CB99A55007B11FF /* ScrumsView.swift */; };
+		10589BFA2CBB015A007B11FF /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10589BF92CBB015A007B11FF /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		10589BF22CB99325007B11FF /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		10589BF42CB99826007B11FF /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		10589BF72CB99A55007B11FF /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		10589BF92CBB015A007B11FF /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,6 +156,7 @@
 				10589BC52CB983E2007B11FF /* MeetingView.swift */,
 				10589BF22CB99325007B11FF /* CardView.swift */,
 				10589BF72CB99A55007B11FF /* ScrumsView.swift */,
+				10589BF92CBB015A007B11FF /* DetailView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				10589BF12CB992E6007B11FF /* DailyScrum.swift in Sources */,
+				10589BFA2CBB015A007B11FF /* DetailView.swift in Sources */,
 				10589BF52CB99826007B11FF /* TrailingIconLabelStyle.swift in Sources */,
 				10589BEF2CB9927D007B11FF /* Theme.swift in Sources */,
 				10589BF82CB99A55007B11FF /* ScrumsView.swift in Sources */,
